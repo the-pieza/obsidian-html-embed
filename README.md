@@ -45,7 +45,7 @@ A small "Open in browser" link is added under each embed as a fallback.
 
 ### Manual installation
 
-1. Download `main.js` and `manifest.json` from the [latest release](https://github.com/aint-vscp/obsidian-html-embed/releases/latest)
+1. Download `main.js` and `manifest.json` from the [latest release](https://github.com/the-pieza/obsidian-html-embed/releases/latest)
 2. Copy them into `<your-vault>/.obsidian/plugins/html-embed/`
 3. Reload Obsidian and enable **HTML Embed** in Settings → Community plugins
 
@@ -61,7 +61,7 @@ In partnership with **[Mr. Dewey](https://mrdewey.tech/)** — an all-in-one aca
 
 ## Contributing
 
-Issues and PRs welcome at <https://github.com/aint-vscp/obsidian-html-embed>. Please keep the plugin focused — small surface area is a feature, not a limitation.
+Issues and PRs welcome at <https://github.com/the-pieza/obsidian-html-embed>. Please keep the plugin focused — small surface area is a feature, not a limitation.
 
 ## License
 
