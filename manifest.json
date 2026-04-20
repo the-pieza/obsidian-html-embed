@@ -1,0 +1,11 @@
+{
+  "id": "html-embed",
+  "name": "HTML Embed",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Embed standalone interactive HTML files (with working JavaScript) inline in your notes via a simple html-embed code block. Built for students, researchers, and educators who want live visualizations next to their notes.",
+  "author": "The Pieza",
+  "authorUrl": "https://thepieza.com/",
+  "fundingUrl": "https://thepieza.com/",
+  "isDesktopOnly": true
+}
